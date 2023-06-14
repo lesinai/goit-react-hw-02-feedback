@@ -1,0 +1,6 @@
+.list_stat {
+  padding-top: 20px;
+}
+.list_item:not(:last-child) {
+  margin-bottom: 5px;
+}
