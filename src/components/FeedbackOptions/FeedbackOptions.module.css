@@ -1,0 +1,18 @@
+.btn_feedback {
+  background-color: white;
+  border-radius: 5px;
+  border: 0.5px solid gray;
+  padding: 5px 10px;
+  text-transform: capitalize;
+  font-weight: 500;
+  font-size: 14px;
+}
+.feedback {
+  padding-top: 20px;
+}
+.btn_feedback:not(:last-child) {
+  margin-right: 10px;
+}
+.btn_feedback:hover {
+  background-color: aquamarine;
+}
